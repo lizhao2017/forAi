@@ -1,0 +1,2 @@
+# forAi
+practices the python 
