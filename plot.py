@@ -39,4 +39,8 @@ bar_heights=norm_reviews.ix[0,num_cols].values
 print(bar_heights)
 
 
+
+
+
+
          
